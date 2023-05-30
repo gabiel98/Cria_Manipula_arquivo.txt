@@ -1,0 +1,1 @@
+# Cria_Manipula_arquivo.txt
