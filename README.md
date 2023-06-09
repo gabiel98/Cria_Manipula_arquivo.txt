@@ -19,5 +19,7 @@ Essas são as bibliotecas que foram utilizadas no código para lidar com operaç
 ```
 
 MAX_LINE_LENGTH define o tamanho máximo de cada linha do arquivo
-/n FILE_NAME é o nome do arquivo original 
-/n FILE_NEW é o nome do arquivo renomeado.
+
+FILE_NAME é o nome do arquivo original 
+
+FILE_NEW é o nome do arquivo renomeado.
