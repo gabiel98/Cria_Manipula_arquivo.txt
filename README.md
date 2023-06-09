@@ -12,3 +12,8 @@
 
 Essas são as bibliotecas que foram utilizadas no código para lidar com operações de entrada/saída, alocação de memória, manipulação de strings, controle de arquivos, permissões e tipos do sistema.
 
+```C
+#define MAX_LINE_LENGTH 256
+#define FILE_NAME "arquivo.txt"
+#define FILE_NEW "novo_arquivo.txt"
+```
