@@ -23,3 +23,7 @@ MAX_LINE_LENGTH define o tamanho máximo de cada linha do arquivo
 FILE_NAME é o nome do arquivo original 
 
 FILE_NEW é o nome do arquivo renomeado.
+
+```C
+void createFile()
+```
