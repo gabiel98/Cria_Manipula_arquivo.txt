@@ -27,3 +27,4 @@ FILE_NEW é o nome do arquivo renomeado.
 ```C
 void createFile()
 ```
+cria o arquivo de nome especificado em FILE_NAME. Ela utiliza a função open para criar o arquivo em modo de escrita (O_CREAT | O_WRONLY | O_TRUNC) com permissões de leitura e escrita para o usuário (S_IRUSR | S_IWUSR). Em seguida, a função close é chamada para fechar o descritor de arquivo e uma mensagem é exibida indicando que o arquivo foi criado com sucesso.
